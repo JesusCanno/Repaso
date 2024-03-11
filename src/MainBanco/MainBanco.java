@@ -7,6 +7,7 @@ public class MainBanco {
 		cliente.crearCliente("","");
 		Cuenta cuenta = new Cuenta("1234","","");
 		cuenta.verCuenta();
+		System.out.print("Hola");
 	}
 
 }
